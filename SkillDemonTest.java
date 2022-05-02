@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemonTest {
     @Test 
     public void multiply (){
-        assertEquals(2, SkillDemonstration1.multiply(2,2));
+        assertEquals(4, SkillDemonstration1.multiply(2,2));
     }
 }
